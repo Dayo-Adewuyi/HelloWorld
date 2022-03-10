@@ -6,7 +6,7 @@ contract HelloWorld {
 
     constructor (string memory _message) {
         _message = "Hello, world!";
-        message = _message;
+        
     }
 
     function speech() public view returns (string memory) {
