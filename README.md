@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# Hello World Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is a simple contract that stores messages and retrieves them.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+The contract address is 0x53aD74550f7330c9E9bA5eB1FF7294458Bc643ae and can be viewed on https://rinkeby.etherscan.io/address/0x53aD74550f7330c9E9bA5eB1FF7294458Bc643ae
